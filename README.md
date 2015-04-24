@@ -32,6 +32,8 @@ Lista de recursos de Python en Español.
 
 * Tutoriales en Español
 	* [Como comenzar un proyecto de Django + Virtualenv](https://www.youtube.com/watch?v=U-WS3n5cDUo) - virtualenv es una herramienta que crea ambientes de Python aislados.
+* Tutoriales en Portugués
+	* [Lista de clases y contenido libre](https://github.com/erichideki/video-aulas-gratuitas)
 
 * Charlas en conferencias realizados en América latina
 	* Argetina
