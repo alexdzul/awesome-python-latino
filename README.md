@@ -59,7 +59,7 @@ Lista de recursos de Python en Español.
 	* [Venezuela](https://groups.google.com/forum/#!forum/python-venezuela)
 	* [SciPy Latin America](https://groups.google.com/forum/#!forum/scipyla)
 * IRC
-	* [#python](http://webchat.freenode.net/?channels=pythonlatino)
+	* [#pythonlatino](http://webchat.freenode.net/?channels=pythonlatino)
 	* [#pyar](http://webchat.freenode.net/?channels=pyar)
 	* [#python-br](http://webchat.freenode.net/?channels=python-br)
 
