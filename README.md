@@ -25,6 +25,10 @@ Lista de recursos de Python en Español.
 
 * [Mayan EDMS](https://github.com/mayan-edms/mayan-edms) - Free Open Source Document Management System
 * [Open Mining](https://github.com/avelino/mining) -  Business Intelligence (BI) in Python, OLAP
+* [Opps CMS](https://github.com/opps/opps) - A Django-based CMS for the magazines, newspappers websites and portals with high-traffic
+* [Model Mommy](https://github.com/vandersonmota/model_mommy) - A smart way to create fixtures for testing in Django
+* [Splinter](https://github.com/cobrateam/splinter) - Python test framework for web applications
+* [Quokka](https://github.com/quokkaproject/quokka) - Flask powered CMS on top of mongoengine/MongoDB
 
 ## Videos
 
