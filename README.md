@@ -65,7 +65,10 @@ Lista de recursos de Python en Español.
 * IRC
 	* [#pythonlatino](http://webchat.freenode.net/?channels=pythonlatino)
 	* [#pyar](http://webchat.freenode.net/?channels=pyar)
-	* [#python-br](http://webchat.freenode.net/?channels=python-br)
+	* Brazil
+		* [#python-br](http://webchat.freenode.net/?channels=python-br)
+		* [#grupy-sp](http://webchat.freenode.net/?channels=grupy-sp)
+		* [#python-mg](http://webchat.freenode.net/?channels=python-mg)
 
 # Eventos
 
