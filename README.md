@@ -62,6 +62,12 @@ Lista de recursos de Python en Español.
 	* [Uruguay](https://groups.google.com/forum/#!forum/pyuy)
 	* [Venezuela](https://groups.google.com/forum/#!forum/python-venezuela)
 	* [SciPy Latin America](https://groups.google.com/forum/#!forum/scipyla)
+* Meetups
+	* Brazil
+		* [Belo Horizonte](http://www.meetup.com/Belo-Horizonte-Python-User-Group)
+		* [São Paulo](http://www.meetup.com/grupy-sp)
+	* Uruguay
+		* [Montevideo](http://www.meetup.com/py-mvd)
 * IRC
 	* [#pythonlatino](http://webchat.freenode.net/?channels=pythonlatino)
 	* [#pyar](http://webchat.freenode.net/?channels=pyar)
