@@ -27,11 +27,11 @@ Lista de recursos de Python en Español.
 *Proyectos de programación de Python hechos en Latinoamerica*
 
 * [Mayan EDMS](https://github.com/mayan-edms/mayan-edms) - Free Open Source Document Management System
+* [Model Mommy](https://github.com/vandersonmota/model_mommy) - A smart way to create fixtures for testing in Django
 * [Open Mining](https://github.com/avelino/mining) -  Business Intelligence (BI) in Python, OLAP
 * [Opps CMS](https://github.com/opps/opps) - A Django-based CMS for the magazines, newspappers websites and portals with high-traffic
-* [Model Mommy](https://github.com/vandersonmota/model_mommy) - A smart way to create fixtures for testing in Django
-* [Splinter](https://github.com/cobrateam/splinter) - Python test framework for web applications
 * [Quokka](https://github.com/quokkaproject/quokka) - Flask powered CMS on top of mongoengine/MongoDB
+* [Splinter](https://github.com/cobrateam/splinter) - Python test framework for web applications
 
 ## Librerias
 
@@ -69,7 +69,8 @@ Lista de recursos de Python en Español.
 	* [Peru](https://groups.google.com/forum/#!forum/python-peru)
 	* [Uruguay](https://groups.google.com/forum/#!forum/pyuy)
 	* [Venezuela](https://groups.google.com/forum/#!forum/python-venezuela)
-	* [SciPy Latin America](https://groups.google.com/forum/#!forum/scipyla)
+    * América Latina
+	    * [SciPy Latin America](https://groups.google.com/forum/#!forum/scipyla)
 * Meetups
 	* Brazil
 		* [Belo Horizonte](http://www.meetup.com/Belo-Horizonte-Python-User-Group)
