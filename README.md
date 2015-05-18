@@ -19,6 +19,8 @@ Lista de recursos de Python en Español.
 
 *Páginas web sobre Python en Español*
 
+* [PythonPeople](http://people.python.org.br/) - The main goal of this site is to keep a fresh statistics about python comunity. 
+
 ## Proyectos
 
 *Proyectos de programación de Python hechos en Latinoamerica*
