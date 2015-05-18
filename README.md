@@ -6,6 +6,7 @@ Lista de recursos de Python en Español.
     - [Libros](#libros)
     - [Páginas](#páginas)
     - [Proyectos](#proyectos)
+    - [Librerias](#librerias)
 - [Comunidades](#comunidades)
 - [Eventos](#eventos)
 
@@ -31,6 +32,11 @@ Lista de recursos de Python en Español.
 * [Model Mommy](https://github.com/vandersonmota/model_mommy) - A smart way to create fixtures for testing in Django
 * [Splinter](https://github.com/cobrateam/splinter) - Python test framework for web applications
 * [Quokka](https://github.com/quokkaproject/quokka) - Flask powered CMS on top of mongoengine/MongoDB
+
+## Librerias
+
+* [autcode](https://github.com/lucuma/authcode) - Awesome auth library for Flask and Bottle web apps
+* [bottle-auth](https://github.com/avelino/bottle-auth) - Bottle authentication, for Personal, Google, Twitter and facebook
 
 ## Videos
 
