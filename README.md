@@ -89,5 +89,6 @@ Lista de recursos de Python en Español.
 
 *Eventos planificados o recurrentes de Python*
 
+* [UAI Python](http://uaipython.org) - Belo Horizonte - MG, 29 de Agosto de 2015
 * [Python Brasil](http://pythonbrasil.org.br/) - São José Dos Campos - SP, 13 al 17 de Octubre de 2015
 * Wikén de Python - Puerto Rico, Septiembre de 2015
