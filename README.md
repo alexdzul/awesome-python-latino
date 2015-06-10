@@ -21,6 +21,7 @@ Lista de recursos de Python en Español.
 *Páginas web sobre Python en Español*
 
 * [PythonPeople](http://people.python.org.br/) - The main goal of this site is to keep a fresh statistics about python comunity. 
+* [Pythonízame](http://pythoniza.me) - Blog en español de noticias sobre el mundo Python.
 
 ## Proyectos
 
@@ -37,6 +38,7 @@ Lista de recursos de Python en Español.
 
 * [autcode](https://github.com/lucuma/authcode) - Awesome auth library for Flask and Bottle web apps
 * [bottle-auth](https://github.com/avelino/bottle-auth) - Bottle authentication, for Personal, Google, Twitter and facebook
+* [pyql-weather](https://github.com/alexdzul/pyql-weather) - YQL Queries and Yahoo Weather for Python
 
 ## Videos
 
